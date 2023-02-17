@@ -27,7 +27,7 @@ Python 3.9.1
 ## Installing the requirements <a name = "installing"></a>
 
 You can install anaconda using https://docs.anaconda.com/anaconda/install/windows/.
-Once set up, run the powershell, and move to the directory with the copy of the repository :
+Once set up, run the powershell, and move to the directory with the copy of the repository. Finally open the local server with:
 
 ```ShellSession
 $ jupyter notebook
