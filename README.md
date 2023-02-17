@@ -22,6 +22,7 @@ You need to have a machine with Python > 3.9.
 ```ShellSession
 $ python3.9 -V
 Python 3.9.1
+```
 
 ## Installing the requirements <a name = "installing"></a>
 
@@ -30,7 +31,7 @@ Once set up, run the powershell, and move to the directory with the copy of the 
 
 ```ShellSession
 $ jupyter notebook
-
+```
 ## Running the code <a name = "run_locally"></a>
 
 To see examples of the trained model, one can simply run the Trained.ipynb and everything is set up to run 10 random examples.
