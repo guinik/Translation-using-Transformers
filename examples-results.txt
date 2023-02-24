@@ -1,0 +1,500 @@
+Example number :0 
+Input:         : bajo nuestro piso hay un carpintero , confiterías , un carnicero , una imprenta , talleres , y mucho más .
+Prediction     :  debaixo do nosso andar , há um carpinteiro , confirmado , um carruísta , uma impretura , talvez e muito mais . 
+Ground truth   : debaixo do nosso apartamento , há um carpinteiro , lojas de guloseimas , um talho , uma gráfica , oficinas e muitas mais lojas .
+
+Example number :1 
+Input:         : resulta rentable tener un entorno de trabajo poco seguro .
+Prediction     :  acontece que é um ambiente de trabalho de trabalho de trabalho . 
+Ground truth   : é lucrativo ter um ambiente de trabalho inseguro .
+
+Example number :2 
+Input:         : les borró el texto y luego cortó las hojas por la mitad , las mezcló , las rotó en un ángulo de 90 grados , y escribió oraciones por encima .
+Prediction     :  e ele borrou o texto e depois cortou as folhas , metade da metade , as mezou , as routou num ângulo de 90 graus , e escreveu frases que eram as características acima . 
+Ground truth   : apagou todos os textos , e depois cortou as folhas ao meio , baralhou-as , e rodou-as 90 graus , e escreveu orações sobre estes livros .
+
+Example number :3 
+Input:         : el problema es que mucha gente empieza a creer que es un juego que no vale la pena jugar .
+Prediction     :  o problema é que muitas pessoas começam a acreditar que é um jogo que não vale a pena brincar . 
+Ground truth   : o problema é que muitas pessoas começam a acreditar que é um jogo que não vale a pena jogar .
+
+Example number :4 
+Input:         : el brexit nos enseña muchas cosas sobre nuestra sociedad y sobre las sociedades en el mundo .
+Prediction     :  o brexit ensina - nos muitas coisas sobre a nossa sociedade e sobre as sociedades no mundo . 
+Ground truth   : o brexit ensina-nos imensas coisas sobre a nossa sociedade e sobre as sociedades do mundo inteiro .
+
+Example number :5 
+Input:         : es una gran contribución para ser un comportamiento asociado a no hacer nada .
+Prediction     :  é uma grande contribuição para ser um comportamento associado a não fazer nada . 
+Ground truth   : é uma contribuição bastante sólida para um comportamento equiparado a não fazer nada .
+
+Example number :6 
+Input:         : dos días después , me transfirieron a otro lugar .
+Prediction     :  dois dias depois , eu transfiquem - me a outro lugar . 
+Ground truth   : dois dias depois , fui transferido para outro local .
+
+Example number :7 
+Input:         : ¿es suerte ? ¿o es casualidad ?
+Prediction     :  é sorte ? ou é casnia ? 
+Ground truth   : será sorte ? será oportunidade ?
+
+Example number :8 
+Input:         : concluiré con una consecuencia sorprendente de todas estas ideas para un futuro muy lejano .
+Prediction     :  eu cheguei a uma consequência de todas estas ideias para um futuro muito diferente . 
+Ground truth   : eu irei concluir com uma impressionante consequência de todas essas ideias para um futuro distante .
+
+Example number :9 
+Input:         : ¿qué tienen que saber ?
+Prediction     :  o que precisam de saber ? 
+Ground truth   : `` `` o que precisam de saber ? '' ''
+
+Example number :10 
+Input:         : y comenzamos a plantearnos las preguntas de cómo estábamos abordando en realidad las necesidades superiores , estas necesidades de transformación para nuestros empleados clave en la compañía .
+Prediction     :  e começámos a planear - nos as questões de como estávamos a lidar com necessidades superiores , essas necessidades de transformação para os nossos empregados chave na empresa . 
+Ground truth   : e começámos a perguntar-nos a nós próprios as questões acerca de como estávamos realmente a lidar com as necessidades mais altas , as necessidades transformacionais dos nosso empregados chave na empresa .
+
+Example number :11 
+Input:         : cuando llega el intruso real el cuerpo rápidamente monta una respuesta inmune relacionada con esa vacuna y neutraliza la infección .
+Prediction     :  quando chega o intruso real , o corpo rapidamente monta uma resposta imuneada com esta vacina e neutraliza a infecção . 
+Ground truth   : quando o intruso verdadeiro ataca o corpo rapidamente monta a resposta imunitária para lidar com essa vacina e neutraliza a infeção .
+
+Example number :12 
+Input:         : transformar eso en una respuesta con forma matemática .
+Prediction     :  transformar isso numa resposta com uma forma matemática . 
+Ground truth   : converter o problema numa dada reposta sob uma forma matemática .
+
+Example number :13 
+Input:         : por eso necesitamos un sistema que ayude a nuestros profesores a ser lo mejor de lo mejor .
+Prediction     :  então , precisamos de um sistema que ajude os nossos professores a ser o melhor do que se importa . 
+Ground truth   : precisamos então de um sistema que ajude os nossos professores a serem tão bons como os melhores .
+
+Example number :14 
+Input:         : cuando mi padre murió yo tenía más de 40 años .
+Prediction     :  quando o meu pai morreu tinha mais de 40 anos . 
+Ground truth   : eu tinha mais de 40 quando o meu pai faleceu .
+
+Example number :15 
+Input:         : puedes incluso perder tus canicas .
+Prediction     :  talvez possamos perder os seus canicas . 
+Ground truth   : podem até perder o juízo .
+
+Example number :16 
+Input:         : me dijo que no se lo contara a nadie .
+Prediction     :  ele disse - me que não se contaria a ninguém . 
+Ground truth   : ele disse para não contar a ninguém .
+
+Example number :17 
+Input:         : los mensajes tienen una tasa de apertura del 100 % .
+Prediction     :  as mensagens têm uma taxa de apertura de 100 % . 
+Ground truth   : 100 % dos sms são lidos .
+
+Example number :18 
+Input:         : `` de hecho , ahora llamo a la silla de ruedas acuática `` '' portal '' '' , porque literalmente me ha llevado a una nueva forma de ser a nuevas dimensiones y a un nuevo nivel de consciencia . ''
+Prediction     :  ` ` na verdade , eu agora chamo a cadeira de rodas acurática ` ` ' ' portal ' ' ' ' , porque , literalmente , levou a uma nova forma de ser novas dimensões e a um novo nível de consibilizar . ' ' 
+Ground truth   : `` na verdade , eu chamo a cadeira de rodas submarina de `` '' portal '' '' , porque ela levou-me literalmente a uma nova forma de ser , a novas dimensões e a um novo nível de consciência . ''
+
+Example number :19 
+Input:         : es un libro infantil sobre la independencia india ... muy patriótico .
+Prediction     :  é um livro de crianças sobre a independência — muito patritico . 
+Ground truth   : é um livro para crianças sobre a independência da índia — muito patriótico .
+
+Example number :20 
+Input:         : alguien que trabaja para tí , un socio ,
+Prediction     :  alguém que trabalha para tín , um socio . 
+Ground truth   : a alguém que trabalha para vocês , ou um parceiro , a vocês mesmos .
+
+Example number :21 
+Input:         : o las bicicletas : en ámsterdam , por ejemplo , más del 30 % de la población usa bicicletas a pesar de que holanda tiene una renta per cápita mayor que la de ee . uu .
+Prediction     :  ou bicicletas : na ástemste , por exemplo , mais de 30 % da população usa bicicletas , apesar de que holanda tem uma repositita maior do que a américa . 
+Ground truth   : ou bicicletas : por exemplo , em amesterdão , mais de 30 % da população usa bicicletas , apesar do facto da holanda ter uma receita per capita mais elevada do que os estado unidos da américa .
+
+Example number :22 
+Input:         : acabamos de publicar una evaluación de este programa y la evidencia que se observa es sorprendente .
+Prediction     :  acabámos de publicar uma avaliação deste programa e a prova que se observam é surpreendente . 
+Ground truth   : acabámos de publicar uma avaliação deste programa , e a prova que está lá para todos verem é realmente notável .
+
+Example number :23 
+Input:         : si el viaje empieza a las 9 a.m. , al mediodía lo normal es hacer una parada para comer algo ir al baño , tomar un café y seguir la marcha .
+Prediction     :  se a viagem começa a 9 a cada vez mais , o que se tornasse uma paradalha para comer algo ir à casa de banho , tomar café e continuar a andar . 
+Ground truth   : se começarmos uma viagem às 9 horas , ao meio-dia vamos querer parar para almoçar , ir à casa de banho , tomar café e continuar .
+
+Example number :24 
+Input:         : en la siguiente escena , wall-e vuelve a la vida .
+Prediction     :  na cena seguinte , wall - e volta à vida . 
+Ground truth   : na cena seguinte wall-e volta à vida .
+
+Example number :25 
+Input:         : la propaganda es una forma de didáctica en honor a algo .
+Prediction     :  a propaganda é uma forma de ddáctica em honra a algo . 
+Ground truth   : a propaganda é uma maneira de se ser didático em honra de qualquer coisa .
+
+Example number :26 
+Input:         : ¿cuántos de los presentes dirían que la religión es importante para uds . ?
+Prediction     :  quantos de vocês devem dizer que a religião é importante para vocês ? 
+Ground truth   : quantas pessoas aqui diriam que a religião é importante para elas ?
+
+Example number :27 
+Input:         : cada uno de esos genes es un test de diagnóstico potencial .
+Prediction     :  cada um destes genes é um teste de diagnóstico . 
+Ground truth   : cada um destes genes tem um potencial de diagnóstico .
+
+Example number :28 
+Input:         : así que puedo volver , y expandir eso .
+Prediction     :  então posso voltar atrás e expandir isso . 
+Ground truth   : então eu posso voltar atrás e expandir essas edições .
+
+Example number :29 
+Input:         : puedes recoger a quien sea en ee . uu . y llevarlo a donde quiera ir en cualquier momento , por 54 centavos por milla o menos .
+Prediction     :  podem pegar em quem quer que seja nos eua e levar a partir disso para queira ir em qualquer momento , por 54 cêntimos por milla ou menos . 
+Ground truth   : podemos apanhar qualquer pessoa nos eua e levá-la aonde ela queira ir sem qualquer aviso , por 54 cêntimos por milha , ou menos .
+
+Example number :30 
+Input:         : `` se va a encender la luz de `` '' revisa tu cuerpo '' '' para que uno vaya a ser atendido . ''
+Prediction     :  ` ` vai ficar acender a luz do ` ` ' ' revidencia o seu corpo ' ' ' para que se vai ser adaptada . ' ' 
+Ground truth   : `` vai ser a luz `` '' verifique o seu corpo '' '' , e vá tratar disso . ''
+
+Example number :31 
+Input:         : ( ruido de disparos flecha ) ( aplausos ) un arco puede funcionar en un mecanismo simple , pero para hacer un buen arco , se requiere una gran cantidad de sensibilidad .
+Prediction     :  ( barulho de disparos flecha ) ( aplausos ) um arco pode funcionar num mecanismo simples , mas para fazer um bom arco , requer uma grande quantidade de sensibilidade . 
+Ground truth   : ( barulho de disparo de flecha ) ( aplausos ) o mecanismo de funcionamento dos arcos pode ser simples , mas , para se fazer um bom arco , é necessária uma grande dose de sensibilidade .
+
+Example number :32 
+Input:         : gracias .
+Prediction     :  obrigado . 
+Ground truth   : obrigado .
+
+Example number :33 
+Input:         : imagínense el sorprendente coste de proteger esta vital infraestructura con impuestos .
+Prediction     :  imaginem o implante coste de proteger esta infraestrutura fundamental com impostos . 
+Ground truth   : imaginem os custos assombrosos da proteção desta infraestrutura fundamental através de diques .
+
+Example number :34 
+Input:         : estábamos hablando de lo que sucede si uno aumenta la cantidad de lados de un polígono a un número muy grande .
+Prediction     :  estávamos a falar sobre o que acontece se se se aumentarmos a quantidade de lados de um pologono a um número muito grande . 
+Ground truth   : estivemos a falar sobre o que acontece quando se aumenta o número de lados de um polígono para um número muito grande .
+
+Example number :35 
+Input:         : esto lleva tiempo .
+Prediction     :  isto levanta tempo . 
+Ground truth   : demora tempo .
+
+Example number :36 
+Input:         : ¿y si invertimos los papeles y hacemos que la información digital venga hacia nosotros ?
+Prediction     :  e se investimos papels e fazemos que a informação digital vanga para nós ? 
+Ground truth   : mas como reverter esta regra e deixar a informação digital alcançar-nos ?
+
+Example number :37 
+Input:         : de modo que todo lo que cuenta , lo importante , es invisible .
+Prediction     :  então tudo o que conta , o que é importante , é invisível . 
+Ground truth   : portanto , tudo o que tem peso , o que é importante , é invisível .
+
+Example number :38 
+Input:         : y mucho de lo que hacemos es cartografiar .
+Prediction     :  e muito do que fazemos é cartografar . 
+Ground truth   : e muito do que fazemos é cartografia .
+
+Example number :39 
+Input:         : creo que el mayor problema que enfrentamos , es nuestra voluntad para compartir nuestra información .
+Prediction     :  acho que o maior problema que enfrentamos , é a nossa vontade para partilhar a nossa informação . 
+Ground truth   : acho que o nosso maior problema é a vontade de partilharmos os nossos dados .
+
+Example number :40 
+Input:         : la historia no es lineal .
+Prediction     :  a história não é linear . 
+Ground truth   : a história não é linear .
+
+Example number :41 
+Input:         : si están justo donde la bomba estalló , se evaporarán . y esto ... ya les digo , no es bueno .
+Prediction     :  se estiverem finalmente a bombardeamento , evaporem - se . e isto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Ground truth   : se estivessem no local da deflagração , seriam vaporizados . e isso é — estou só a dizer , isso não é bom .
+
+Example number :42 
+Input:         : ahora , la belleza de una sopa es que , como es sopa , puedes agitarla y hacer que todos esos núcleos se distribuyan homogéneamente en el líquido , de modo que ahora al mirar en el microscopio solo cuatro o cinco muestras de esta solución homogénea , puedes contar los núcleos , y por lo tanto saber cuántas células tenía ese cerebro .
+Prediction     :  agora , a beleza de uma sopa é que , como é sopula , podemos agitir e fazer que todos esses núcleos se distribuídas homogénitas , no microscópio , agora , quando olhamos para o microscópio , apenas quatro amostras desta solução homogénia , podem contar - vos os n
+Ground truth   : a beleza da sopa é que por causa de ser uma sopa , pode ser agitada e fazer esses núcleos distribuírem-se homogeneamente no líquido , pelo que , olhando agora ao microscópio para apenas quatro ou cinco amostras desta solução homogénea , podemos contar núcleos , e portanto dizer quantas células tinha esse cérebro .
+
+Example number :43 
+Input:         : esto puede parecer un simple consejo , pero casi nadie lo hace . y es tremendamente útil .
+Prediction     :  isto pode parecer um conselho simples , mas quase ninguém o torna . e é extremamente útil . 
+Ground truth   : isto pode parecer um conselho simples , mas quase ninguém faz isso , e é incrivelmente útil .
+
+Example number :44 
+Input:         : debería haber más colegios haciendo este tipo de proyecto .
+Prediction     :  deveria ter mais escolas a fazer este tipo de projeto . 
+Ground truth   : deveria haver ainda mais escolas fazendo esse tipo de projeto .
+
+Example number :45 
+Input:         : un valor de los viejos es que son , como abuelos , cada vez más útiles en el cuidado de calidad de sus nietos , si deciden hacerlo , en tanto que más mujeres jóvenes ingresan al mercado laboral y menos padres jóvenes de ambos sexos permanecen en casa dedicados al cuidado de sus hijos .
+Prediction     :  um valor dos idosos é que eles são , como avós , cada vez mais úteis no cuidado do seu próprio , se decidem , em tanto do que mais mulheres jovens ingerem ao mercado e menos paisas , com os seus sexos , estão a ser feitos em casa dos seus filhos . 
+Ground truth   : um valor das pessoas idosas é que elas são cada vez mais úteis como avós por oferecerem cuidados de alta qualidade aos seus netos , se eles escolherem fazer isso , à medida que mais mulheres jovens entram no mercado de trabalho e menos pais , de ambos os sexos , ficam em casa para cuidarem dos seus filhos a tempo inteiro .
+
+Example number :46 
+Input:         : y detendrá el uso repetido de las jeringas por 20 ó 30 veces .
+Prediction     :  e vai acabar com repetido nas jerings por 20 vezes . 
+Ground truth   : isto vai impedir a reutilização de uma seringa 20 ou 30 vezes .
+
+Example number :47 
+Input:         : si miran de cerca , es esta forma llamada grulla .
+Prediction     :  se olharem para cerca de cerca , é esta forma chamada grulla . 
+Ground truth   : se olharem melhor , é uma forma conhecida por garça .
+
+Example number :48 
+Input:         : se vuelve más corto , se pierden piezas , se agregan .
+Prediction     :  torna - se mais curto , perdem peças , agreem - se . 
+Ground truth   : fica mais curto , perdemos peças , fica com inserções .
+
+Example number :49 
+Input:         : pero los vehículos eléctricos no tienen por qué sobrecargar la red eléctrica .
+Prediction     :  mas os veículos elétricos não têm de sobrecar a rede elétrico . 
+Ground truth   : mas os veículos eléctricos não precisam de sobrecarregar a rede eléctrica .
+
+Example number :50 
+Input:         : no se ha hecho nada a esta imagen .
+Prediction     :  não foi feito nada a esta imagem . 
+Ground truth   : nada foi feito a esta imagem .
+
+Example number :51 
+Input:         : puede ser algo sencillo como : escriban sobre la peor experiencia que tuvieron en su infancia .
+Prediction     :  pode ser uma coisa simples : escrevem sobre a experiência que tiveram na sua infância . 
+Ground truth   : pode ser um tema simples : escrever sobre a experiência mais infeliz da sua infância .
+
+Example number :52 
+Input:         : pero luego de repente esto cambió .
+Prediction     :  mas , claro , isto mudou . 
+Ground truth   : mas , de repente , tudo mudou .
+
+Example number :53 
+Input:         : cambió la cara de este país , como pueden ver y presenciar hoy en día .
+Prediction     :  mudou a cara daquele país , como podem ver e presença de hoje . 
+Ground truth   : mudou o perfil deste país , como hoje podem constatar .
+
+Example number :54 
+Input:         : si diseñan una ciudad con los ciegos en mente , las aceras serán predecibles y serán generosas .
+Prediction     :  se desejei uma cidade com os cegos em mente , as hordenas serão predeqíveis e genossas . 
+Ground truth   : se projetarem uma cidade com os cegos em mente , os passeios serão previsíveis e generosos .
+
+Example number :55 
+Input:         : y ésta es la manera en que los materiales vivos aprovechan al máximo sus recursos locales de un modo sustentable .
+Prediction     :  e esta é a forma como materiais vivos aproveitam os seus recursos locais de uma forma sustentável . 
+Ground truth   : e esta é a maneira através da qual materiais vivos produzem a maioria dos seus recursos locais de uma forma sustentável .
+
+Example number :56 
+Input:         : nadie compraba software , y claramente no de una mujer .
+Prediction     :  ninguém comprava software , e claramente não de uma mulher . 
+Ground truth   : `` ninguém compraria `` '' software '' '' , muito menos a uma mulher . ''
+
+Example number :57 
+Input:         : `` `` '' lávate las manos para no tener diarrea '' '' . ''
+Prediction     :  ` ` ` ` ' ' leva as mãos ` ` ' ' para não ter malária . ' ' ' ' 
+Ground truth   : `` `` lava as mãos , evita a diarreia . '' ''
+
+Example number :58 
+Input:         : ¿saben cómo reconocemos que el 9/11 no fue orquestado por el gobierno de bush ?
+Prediction     :  sabem como é que o 11 de setembro não foi ordestrado pelo governo de bush ? 
+Ground truth   : mas fazem ideia de como sabemos que o 11 de setembro não foi orquestrado pela administração de bush ?
+
+Example number :59 
+Input:         : pero no estamos aquí para contar historias , ¿no ?
+Prediction     :  mas não estamos aqui para contar histórias , não é ? 
+Ground truth   : mas não estamos aqui para contar histórias , pois não ?
+
+Example number :60 
+Input:         : no estoy diciendo que sea fácil .
+Prediction     :  não estou a dizer que seja fácil . 
+Ground truth   : não digo que seja fácil .
+
+Example number :61 
+Input:         : me conecto con mi esencia y se suspende mi sí mismo .
+Prediction     :  eu conecto com a minha essência , e o que é que eu estava a ser aperdicada . 
+Ground truth   : eu estou centrada na minha essência , e o meu eu está suspenso .
+
+Example number :62 
+Input:         : este fue un buen cerebro en vida .
+Prediction     :  este foi um bom cérebro em vida . 
+Ground truth   : este foi um bom cérebro quando estava vivo .
+
+Example number :63 
+Input:         : y pensemos que la laptop es la vacuna .
+Prediction     :  e pensem que a vacina é a vacina . 
+Ground truth   : pensem no portátil como uma vacina .
+
+Example number :64 
+Input:         : ¿cómo integro esta información en el curso de mi vida ?
+Prediction     :  como é que isto integrade a informação na minha vida ? 
+Ground truth   : como é que eu integro esta informação na minha vida a longo prazo ?
+
+Example number :65 
+Input:         : estas instituciones son el motor que permite que nuestra economía funcione y esto se observa a lo largo de la historia de la humanidad .
+Prediction     :  estas instituições são o motor que permite que a economia funcione e isto é observamos o longo da história da humanidade . 
+Ground truth   : estas instituições são na realidade o óleo que permite que as rodas da economia funcionem , e podemos ver isto ao longo do curso da história humana .
+
+Example number :66 
+Input:         : así , la oxitocina es la molécula de la confianza pero , ¿es la molécula moral ?
+Prediction     :  então a oxitocina é a molécula da confiança , mas é a molécula moral ? 
+Ground truth   : então a oxitocina é a molécula da confiança , mas será a molécula moral ?
+
+Example number :67 
+Input:         : para comprender el mundo en el que vivimos , contamos historias .
+Prediction     :  para compreender o mundo em que vivemos , contamos histórias . 
+Ground truth   : para entendermos o mundo em que vivemos , nós contamos histórias
+
+Example number :68 
+Input:         : no me sentía vacío ; sentía todo simultáneamente .
+Prediction     :  não me senti vazio ; senti tudo simult . 
+Ground truth   : não me senti vazio ; senti tudo em simultâneo .
+
+Example number :69 
+Input:         : y , claro , algunos pensamos : ¡las computadoras !
+Prediction     :  e claro , alguns pensam : os computadores ! 
+Ground truth   : `` e alguns dizem : `` '' ok , computadores , computadores ! ''
+
+Example number :70 
+Input:         : y justo al lado de donde yo trabajaba , había un barrio marginal .
+Prediction     :  e , no lado de onde eu trabalhava , havia um bairro marginal . 
+Ground truth   : e , mesmo ao lado de onde eu trabalhava , havia um bairro de lata .
+
+Example number :71 
+Input:         : `` estos maestros se llaman a sí mismos `` '' pick-up artists '' '' . `` `` artist '' '' es fácil , significa `` '' artista '' '' . ''
+Prediction     :  ` ` estes professores chamam - se a si mesmos ` ` ' ' pick - up artit ' ' ' ' . ` ` ` ` ` ` ` ` ` ` ` ` ` artisst ' ' ' ' ' é fácil , significa ` ` ' ' artista ' ' ' ' . ' ' 
+Ground truth   : `` este professores intitulam-se `` '' pick-up artists . '' '' `` artist '' tem uma tradução simples , significa `` artista . '' ''
+
+Example number :72 
+Input:         : si alguien piensa que se puede luchar contra la piratería o el terrorismo y vencer , se equivoca .
+Prediction     :  se alguém pensa que pode lutar contra a pirataria ou o terrorismo e vestígio , exquilibra - se . 
+Ground truth   : se alguém pensa que pode fazer uma guerra contra a pirataria como uma guerra contra o terrorismo e ganhar , está enganado .
+
+Example number :73 
+Input:         : esa es la correa que la gente usa para transmitir el ritmo cardíaco al sistema nike+ .
+Prediction     :  é esta coisa que as pessoas usam o ritmo cardíaco do nosso sistema nike + . 
+Ground truth   : esta é a correia que as pessoas usam para transmitir dados sobre ritmo cardíaco ao seu sistema nike+ .
+
+Example number :74 
+Input:         : cada zipcar reemplaza a 15 coches personales , y cada conductor conduce un 80 % menos porque de esta forma paga el coste total , todo a la vez , en tiempo real .
+Prediction     :  cada zipcar repubratória a 15 carros pessoal , e cada condutor com 8 % , menos porque desperdiçaria o coste total , tudo a vez , em tempo real . 
+Ground truth   : cada zipcar substitui 15 carros próprios , e cada condutor dirige cerca de 80 % menos . porque agora todos estão a pagar o custo total , de uma só vez , em tempo real .
+
+Example number :75 
+Input:         : ¿qué hay en sus cajas ?
+Prediction     :  e há sinais ? 
+Ground truth   : o que está na vossa caixa ?
+
+Example number :76 
+Input:         : ¿qué hacemos con los compañeros desplazados ... ... que ya no tienen hogar en el planeta ?
+Prediction     :  o que fazemos com os outros tipos de projeções — — que já não têm lar no planeta ? 
+Ground truth   : que fazemos nós com os outros terráqueos deslocados que já não têm uma casa no planeta ?
+
+Example number :77 
+Input:         : primero que nada , un poco de participación de la audiencia .
+Prediction     :  primeiro que nada , um pouco de participação da audiência . 
+Ground truth   : primeiro que tudo , um pouco de participação da audiência .
+
+Example number :78 
+Input:         : y entonces , el primer concepto que me vino a la mente es en cada lugar donde aparcamos , tendremos corriente eléctrica .
+Prediction     :  e o primeiro conceito que me veio à mente é em cada lugar onde aparámos , teremos combustível elétrico . 
+Ground truth   : então , o meu primeiro pensamento foi : onde quer que estacionemos , temos electricidade .
+
+Example number :79 
+Input:         : somos similares a nivel genético .
+Prediction     :  somos semelhantes ao nível genético . 
+Ground truth   : somos semelhantes ao nível genético .
+
+Example number :80 
+Input:         : solo quieren pasarte , así que en general el conductor no está prestando atención .
+Prediction     :  só querem passar , então , em geral , o condutor não está a preserventar atenção . 
+Ground truth   : querem passar à frente e , frequentemente , o condutor está distraído .
+
+Example number :81 
+Input:         : daré solo dos ejemplos hoy .
+Prediction     :  vou dar apenas dois exemplos . 
+Ground truth   : hoje vou dar apenas dois exemplos .
+
+Example number :82 
+Input:         : fue construido por un artesano coreano , porque en esa época , japón aún no construía templos .
+Prediction     :  foi construído pela arte coreano , porque , na altura , o japão ainda não construína testo . 
+Ground truth   : foi construído por um artesão coreano porque , naquele tempo , o japão ainda não estava a construir templos .
+
+Example number :83 
+Input:         : pero añadiendo un giro ?
+Prediction     :  mas acrescendo um giro ? 
+Ground truth   : acrescentando um truque ?
+
+Example number :84 
+Input:         : porque la madre naturaleza sólo tiene esto en infraestructura ecológica y capital natural .
+Prediction     :  porque a mãe natureza tem isto em infraestrutura ecológica e capital natural . 
+Ground truth   : porque a mãe natureza já só tem isso na infra-estrutura ecológica e de capital natural .
+
+Example number :85 
+Input:         : este es el zapato que impulsó a todo el linaje de air jordan , y tal vez salvó a nike .
+Prediction     :  este é o zapato que impulsionado a tudo o leaje air jordan , e talvez salvou a nike . 
+Ground truth   : `` este é o sapato que impulsionou toda a linha `` '' air jordan '' '' , e talvez tenha salvado a nike . ''
+
+Example number :86 
+Input:         : así que para llegarle primero hay que deshacerse de los árboles
+Prediction     :  então , para chegar primeiro , há que desmagar as árvores . 
+Ground truth   : então para lhe chegar primeiro temos que nos livrar das árvores .
+
+Example number :87 
+Input:         : un escritor famoso fue traicionado por su hermano .
+Prediction     :  um escritor famoso foi transativa pelo seu irmão . 
+Ground truth   : um escritor famoso foi traído pelo seu irmão .
+
+Example number :88 
+Input:         : es una ceremonia . las personas la disfrutan .
+Prediction     :  é uma cerimónia . as pessoas são a disfuncional . 
+Ground truth   : é uma cerimónia . as pessoas divertem-se .
+
+Example number :89 
+Input:         : nos fiamos de él casi ciegamente .
+Prediction     :  nós confiamos de quase contaminada . 
+Ground truth   : confiamos quase cegamente nele .
+
+Example number :90 
+Input:         : a un lado de la fotografía se lee información de su vida ,
+Prediction     :  um lado da fotografia é lê - la informação da sua vida . 
+Ground truth   : além dessa fotografia , há informação sobre a vida dele .
+
+Example number :91 
+Input:         : mientras que otras veces solo avanzaba 4 o 5 metros .
+Prediction     :  enquanto outras vezes , eu estava avançando 4 ou 5 metros . 
+Ground truth   : uns dias , avançava apenas cinco metros .
+
+Example number :92 
+Input:         : tk : una visión de 360º , porque mi ecolocalización funciona tan bien detrás como delante de mí .
+Prediction     :  tk : uma visão de três60ºººº , porque o meu ecolocamento funciona tão bem como a partir de mim . 
+Ground truth   : dk : visão 360º . o meu sonar funciona tão bem à minha frente como atrás de mim .
+
+Example number :93 
+Input:         : de acuerdo a estudios previos , como este de saddler y good , la evaluación por pares es una estrategia efectiva para conseguir calificaciones reproducibles .
+Prediction     :  de acordo com estudos previs , como este de saddler e good , a avaliação é uma estratégia eficaz para obter notas reproducativos . 
+Ground truth   : acontece que estudos anteriores mostram , como este de saddler e good , que a classificação entre pares é uma estratégia surpreendentemente eficaz , por proporcionar notas reproduzíveis .
+
+Example number :94 
+Input:         : me encanta un chagall . me encanta el trabajo de chagall .
+Prediction     :  adoro um chagalo . adoro o trabalho de chagalall . 
+Ground truth   : eu adoraria ter um chagall . eu adoro o trabalho de chagall .
+
+Example number :95 
+Input:         : todo lo que voy a decir de ahora en adelante es comparando solo a estas familias básicamente idénticas .
+Prediction     :  tudo o que vou dizer de agora em frente é comparar essas famílias basicamente idênticas . 
+Ground truth   : efectivamente , tudo o que vou dizer a partir de agora é basicamente comparar estas famílias quase idênticas .
+
+Example number :96 
+Input:         : la confianza era sobre todo local y basada en la responsabilidad .
+Prediction     :  a confiança era sobre todo o local e baseada na responsabilidade . 
+Ground truth   : a confiança era sobretudo local e baseada na responsabilidade .
+
+Example number :97 
+Input:         : y diría que sin duda espero que otras tecnologías sean consideradas de la misma manera , al igual que nos gustaría considerar algo que podría tener implicaciones en otros campos además de la biología .
+Prediction     :  e eu diria que , de facto , espero que outras tecnologias sejam consideradas da mesma forma , tal como nos gostaríamos de considerar algo que podíamos considerar em outros campos de biologia . 
+Ground truth   : e diria que certamente espero que outras tecnologias sejam consideradas da mesma maneira . tal como queremos considerar uma coisa que pudesse ter implicações noutros campos , para além da biologia .
+
+Example number :98 
+Input:         : y aplicarle conceptos físicos para que las conferencias similares se agrupen y las que son diferentes se separen , y el resultado es algo bastante lindo . eb : bueno , quiero destacar que cada núcleo es una conferencia ,
+Prediction     :  e aplicá - la de conceitos físicos para que as palestras são agrupeitas e as que são diferentes separecidas , e o resultado é bastante leve . bem , quero que cada núcleo é uma conferência . 
+Ground truth   : assim , pegámos na nossa projeção em rede e aplicámos-lhe um sistema de física , e as palestras semelhantes agruparam-se como que em colisão , enquanto as diferentes se afastaram , e chegámos a isto , que é algo bastante bonito .
+
+Example number :99 
+Input:         : pero no hay respuestas sencillas .
+Prediction     :  mas não há respostas simples . 
+Ground truth   : mas não há uma resposta simples .
+

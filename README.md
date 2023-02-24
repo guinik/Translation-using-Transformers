@@ -34,5 +34,7 @@ $ jupyter notebook
 ```
 ## Running the code <a name = "run_locally"></a>
 
-To see examples of the trained model, one can simply run the Trained.ipynb and everything is set up to run 10 random examples.
+To see examples of the trained model, one can simply run the Test.ipynb and everything is set up to run 10 random examples, or write a file with 100 examples.
+Some can be found in the examples-results.txt
+
 
